@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    border: 0;
+    width: 100%;
+}
